@@ -1,3 +1,3 @@
 # tradingBot
 
-this is a trading bot which allows you to paper trade directly with alpaca
+this is a trading bot which paper trades directly using alpaca via an api call
